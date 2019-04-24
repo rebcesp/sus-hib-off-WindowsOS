@@ -4,6 +4,7 @@
 #!/usr/bin/env python
 #Windows 0S
 #API Windows - Función SetSuspendState/CreateWaitableTimer/SetWaitableTimer
+#INFO https://docs.microsoft.com/es-es/windows/desktop/api/powrprof/nf-powrprof-setsuspendstate
 
 """
 from ctypes import windll
